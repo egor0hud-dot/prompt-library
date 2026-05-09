@@ -4,6 +4,8 @@
     "category": "analysis",
     "version": "1.0.0",
     "tags": ["analysis"],
-    "path": "prompts/analysis/clear-analyzer/prompt.yaml"
+    "path": "prompts/analysis/clear-analyzer/prompt.yaml",
+    "testcases": 1,
+    "status": "stable"
   }
 ]

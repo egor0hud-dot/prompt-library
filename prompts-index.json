@@ -3,6 +3,7 @@
     "id": "clear-analyzer",
     "category": "analysis",
     "version": "1.0.0",
+    "owner": "Igor.Khrapov"
     "tags": ["analysis"],
     "path": "prompts/analysis/clear-analyzer/prompt.yaml",
     "testcases": 1,

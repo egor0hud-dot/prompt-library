@@ -1,0 +1,18 @@
+id: clear-analyzer
+version: 1.0.0
+status: stable
+
+name: CLEAR Analyzer
+
+description: >
+  Анализ документов и поиск ошибок.
+
+models:
+  - gpt-4o
+
+tags:
+  - analysis
+  - clear
+
+prompt: |
+  Ты — эксперт по анализу документов.

@@ -1,0 +1,8 @@
+[
+  {
+    "id": "clear-analyzer",
+    "category": "analysis",
+    "version": "1.0.0",
+    "path": "prompts/analysis/clear-analyzer/prompt.yaml"
+  }
+]
